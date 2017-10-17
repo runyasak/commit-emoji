@@ -10,7 +10,7 @@ emoji                                   | emoji                      | commit
 :--------                               | :--------                  | :--------
 ➕                                      | `:heavy_plus_sign:`        | Adding code or files
 📝                                      | `:pencil:`                 | Changes/Fixing the code or language
-🔥                                      | `:fire:`                   | Removing code or files
+💘                                      | `:cupid:`                   | Removing code or files
 ♻️                                      | `:recycle:`                | Recycle code or files
 💩                                      | `:poop:`                | Writing bad code that needs to be improved.
 
